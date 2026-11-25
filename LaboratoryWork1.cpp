@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿// Правка из ветки ДополнительнаяВетвь
+#include <iostream>
 #include <cmath> // Подключили стандартную математическую библиотеку С++
 
 #include <vector> 
